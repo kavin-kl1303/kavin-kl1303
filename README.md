@@ -1,20 +1,19 @@
-# 👋 Hi, I'm KAVIN KUMAR S
+<h1 align="center">👋 Hi, I'm KAVIN KUMAR S</h1>
+
+<h3 align="center">
+🚀 Full-Stack Developer | Java & Python Developer | AI & Web Technology Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Java+%7C+Python+Developer;Frontend+Developer;AI+%26+Web+Enthusiast;Building+Ideas+into+Real+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Java+Developer;Python+Developer;AI+%26+Web+Technology+Enthusiast;Building+Real-World+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</p>
-
-<p align="center">
-  <b>🚀 Full-Stack Developer | 💻 Java & Python Developer | 🤖 AI Enthusiast</b>
-</p>
-
-<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
   <a href="https://vidyut-ai-smart-energy-platform.vercel.app/">
-    <img src="https://img.shields.io/badge/⚡_Vidyut_AI-Smart_Energy_Platform-00C853?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Vidyut%20AI-Live%20Project-00C853?style=for-the-badge&logo=vercel" alt="Vidyut AI"/>
   </a>
 </p>
 
@@ -22,77 +21,142 @@
 
 ## 👨‍💻 About Me
 
-I'm **KAVIN KUMAR S**, a passionate developer from **India** who enjoys building modern, scalable, and user-friendly applications.
+I'm **KAVIN KUMAR S**, a passionate developer from **India** who enjoys creating modern, scalable and user-friendly applications.
 
-* 🔭 Currently working on **[Vidyut AI – Smart Energy Platform](https://vidyut-ai-smart-energy-platform.vercel.app/)**
+* 🔭 Currently working on **Vidyut AI – Smart Energy Platform**
 * 🌱 Currently learning **Java, Python & Full-Stack Development**
-* 💻 Interested in **Web Development, AI, Cloud & Software Engineering**
-* 🚀 Love turning ideas into real-world applications
-* 🎯 Focused on improving my problem-solving and development skills
-* ⚡ Always exploring new technologies and building projects
+* 🤖 Interested in **AI, Machine Learning & Intelligent Applications**
+* 🌐 Interested in **Frontend & Backend Development**
+* 🗄️ Learning and working with **MongoDB, MySQL & PostgreSQL**
+* ☁️ Exploring **AWS, Docker & Cloud Technologies**
+* 💡 Passionate about solving real-world problems through technology
+* 🎯 Goal: Become a professional **Full-Stack & AI Developer**
 
 ---
 
-## 🚀 Featured Project
+## ⚡ Current Project
 
-### ⚡ Vidyut AI – Smart Energy Platform
+### 🔋 Vidyut AI – Smart Energy Platform
 
-A smart energy platform designed to bring **AI-powered energy insights, monitoring, and intelligent management** into a single application.
+I'm currently working on **Vidyut AI**, a smart energy platform focused on modern energy monitoring and intelligent insights.
 
-**Tech Focus:**
+<p align="center">
+  <a href="https://vidyut-ai-smart-energy-platform.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20VIEW%20LIVE%20PROJECT-00C853?style=for-the-badge" alt="View Project"/>
+  </a>
+</p>
 
-`AI` `Web Development` `Cloud` `Data Analytics` `Smart Energy`
+### ✨ Project Highlights
 
-🔗 **Live Project:**
-https://vidyut-ai-smart-energy-platform.vercel.app/
+* ⚡ Smart Energy Monitoring
+* 🤖 AI-powered Insights
+* 📊 Data Visualization
+* 📈 Energy Analytics
+* 🌱 Energy Efficiency
+* 💻 Modern Web Interface
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,php" alt="Programming Languages"/>
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" alt="Frontend Technologies"/>
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,php" />
-</p>
-
-### 📱 Mobile Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,java" alt="Backend Technologies"/>
 </p>
 
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Databases"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" alt="Cloud and DevOps"/>
 </p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Full--Stack-Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-purple?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 What I Love Building
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🤖 AI Applications
+
+Intelligent applications that use AI and data to solve real-world problems.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌐 Full-Stack Applications
+
+Modern applications with frontend, backend, APIs and databases.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 📊 Data Applications
+
+Dashboards, analytics systems and data visualization platforms.
+
+</td>
+
+<td align="center" width="50%">
+
+### ⚡ Smart Platforms
+
+Technology solutions focused on automation, efficiency and sustainability.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Statistics"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+    width="41%"
+  />
 </p>
 
 ---
@@ -100,23 +164,23 @@ https://vidyut-ai-smart-energy-platform.vercel.app/
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="70%"
+  />
 </p>
 
 ---
 
-## 🐍 Contribution Animation
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="GitHub Trophies"
+    width="95%"
+  />
 </p>
 
 ---
@@ -125,56 +189,75 @@ https://vidyut-ai-smart-energy-platform.vercel.app/
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 What I'm Currently Working On
+## 💡 Developer Mindset
 
-```text
-🚀 Building Full-Stack Applications
-🤖 Exploring Artificial Intelligence
-☕ Improving Java Development Skills
-🐍 Strengthening Python Skills
-🌐 Building Modern Web Applications
-☁️ Learning Cloud & DevOps Technologies
-```
+<p align="center">
+
+**Learn → Build → Test → Fail → Improve → Repeat 🚀**
+
+</p>
 
 ---
 
-## 🎯 2026 Goals
+## 📈 My Journey
 
-* [ ] Become a strong Full-Stack Developer
-* [ ] Build production-ready applications
-* [ ] Improve Java & Python expertise
-* [ ] Learn advanced AI technologies
-* [ ] Contribute to Open Source
-* [ ] Build innovative real-world projects
-* [ ] Participate in Hackathons
-* [ ] Deploy more projects to the cloud
+```text
+                 🚀 DEVELOPER JOURNEY
+
+                       START
+                         │
+                         ▼
+                  Learn Programming
+                         │
+                         ▼
+                  Build Projects
+                         │
+                         ▼
+                Learn New Technologies
+                         │
+                         ▼
+                 Solve Real Problems
+                         │
+                         ▼
+                 Build Better Projects
+                         │
+                         ▼
+                  Become Professional
+                         │
+                         ▼
+                    🚀 GROW
+```
 
 ---
 
 ## ⚡ Fun Fact
 
-> **"Great developers don't just write code — they solve problems."**
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <b>💻 I don't just learn technology — I build with it.</b>
 </p>
 
+---
+
+<h3 align="center">
+✨ Code • Learn • Build • Repeat ✨
+</h3>
+
 <p align="center">
-  ⭐ If you like my projects, consider giving them a star!
+  ⭐ Thanks for visiting my GitHub profile! ⭐
 </p>
