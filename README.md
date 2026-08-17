@@ -138,29 +138,14 @@ A smart energy platform designed to provide intelligent energy monitoring, analy
 
 ---
 
-# 🐍 GitHub Contribution Animation
+## 🐍 GitHub Contribution Animation
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kavin-kl1303/kavin-kl1303/output/github-snake-dark.svg"
-    />
-
-```
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/kavin-kl1303/kavin-kl1303/output/github-snake.svg"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/kavin-kl1303/kavin-kl1303/output/github-snake.svg"
-  alt="GitHub Contribution Snake Animation"
-  width="100%"
-/>
-```
-
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/kavin-kl1303/kavin-kl1303/output/github-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
 </p>
 
 ---
