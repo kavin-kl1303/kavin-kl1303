@@ -5,13 +5,16 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Java+Developer;Python+Developer;AI+%26+Web+Technology+Enthusiast;Building+Real-World+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing Animation"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Java+Developer;Python+Developer;AI+%26+Web+Technology+Enthusiast;Building+Real-World+Projects;Always+Learning+%F0%9F%9A%80"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/kavin-kl1303">
+<img src="https://img.shields.io/badge/GitHub-kavin--kl1303-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://vidyut-ai-smart-energy-platform.vercel.app/">
@@ -32,7 +35,7 @@ I'm **KAVIN KUMAR S**, a passionate developer from **India** who enjoys building
 * 🌐 Interested in **Frontend & Backend Development**
 * 🗄️ Working with **MongoDB, MySQL & PostgreSQL**
 * ☁️ Exploring **AWS, Docker & Cloud Technologies**
-* 💡 Passionate about solving real-world problems through technology
+* 💡 Passionate about solving real-world problems
 * 🎯 Goal: Become a professional **Full-Stack & AI Developer**
 
 ---
@@ -41,7 +44,7 @@ I'm **KAVIN KUMAR S**, a passionate developer from **India** who enjoys building
 
 ### 🔋 Vidyut AI – Smart Energy Platform
 
-A smart energy platform designed to provide intelligent energy monitoring, analytics and insights.
+A smart energy platform designed for intelligent energy monitoring, analytics and insights.
 
 <p align="center">
 
@@ -73,19 +76,19 @@ A smart energy platform designed to provide intelligent energy monitoring, analy
 ### 🌐 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" alt="Frontend"/>
 </p>
 
 ### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,spring" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,spring" alt="Backend"/>
 </p>
 
 ### 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Database Technologies"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Databases"/>
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -122,7 +125,7 @@ A smart energy platform designed to provide intelligent energy monitoring, analy
 
 ### 🤖 AI Applications
 
-Building intelligent applications that solve real-world problems using AI and data.
+Building intelligent applications using AI and data.
 
 </td>
 
@@ -130,7 +133,7 @@ Building intelligent applications that solve real-world problems using AI and da
 
 ### 🌐 Full-Stack Applications
 
-Creating complete applications with frontend, backend, APIs and databases.
+Building complete frontend, backend and database systems.
 
 </td>
 
@@ -142,7 +145,7 @@ Creating complete applications with frontend, backend, APIs and databases.
 
 ### 📊 Data Applications
 
-Building dashboards, analytics systems and visualization platforms.
+Creating dashboards, analytics systems and visualizations.
 
 </td>
 
@@ -150,7 +153,7 @@ Building dashboards, analytics systems and visualization platforms.
 
 ### ⚡ Smart Platforms
 
-Developing technology solutions focused on automation and efficiency.
+Developing technology solutions for real-world problems.
 
 </td>
 
@@ -160,33 +163,58 @@ Developing technology solutions focused on automation and efficiency.
 
 ---
 
-# 🟩 My GitHub Contributions
+# 🐍 GitHub Contribution Animation
 
 <p align="center">
 
-<img
-src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Animation"
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/kavin-kl1303/kavin-kl1303/output/github-contribution-grid-snake-dark.svg"
 />
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/kavin-kl1303/kavin-kl1303/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+alt="GitHub Contribution Snake Animation"
+src="https://raw.githubusercontent.com/kavin-kl1303/kavin-kl1303/output/github-contribution-grid-snake.svg"
+/>
+
+</picture>
 
 </p>
 
 ---
 
-# 🚗 My Coding Journey
+# 🚗 My Coding City
 
 <p align="center">
 
 <img
-src="https://gitcity.natrajx.in/api/svg?username=YOUR_USERNAME"
-alt="GitHub Contribution City"
+src="https://gitcity.natrajx.in/api/svg?username=kavin-kl1303"
+alt="Kavin Kumar S GitHub Contribution City"
+width="900"
 />
 
 </p>
 
 <p align="center">
 
-🚗 <b>Every contribution builds my coding city!</b>
+🚗 <b>Every commit builds my coding city!</b>
+
+</p>
+
+<p align="center">
+
+<a href="https://gitcity.natrajx.in/">
+
+🚗 Drive Through My Contribution City
+
+</a>
 
 </p>
 
@@ -196,16 +224,16 @@ alt="GitHub Contribution City"
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/kavin-kl1303">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="mailto:kavinsivan1329@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -225,30 +253,30 @@ alt="GitHub Contribution City"
 ## 📈 My Developer Journey
 
 ```text
-                 🚀 MY DEVELOPER JOURNEY
+                     🚀 MY DEVELOPER JOURNEY
 
-                         START
-                           │
-                           ▼
-                  Learn Programming
-                           │
-                           ▼
-                    Build Projects
-                           │
-                           ▼
-                 Learn New Technologies
-                           │
-                           ▼
-                  Solve Real Problems
-                           │
-                           ▼
-                   Build Better Apps
-                           │
-                           ▼
-                   Become Professional
-                           │
-                           ▼
-                         🚀 GROW
+                            START
+                              │
+                              ▼
+                     Learn Programming
+                              │
+                              ▼
+                       Build Projects
+                              │
+                              ▼
+                  Learn New Technologies
+                              │
+                              ▼
+                    Solve Real Problems
+                              │
+                              ▼
+                     Build Better Apps
+                              │
+                              ▼
+                    Become Professional
+                              │
+                              ▼
+                           🚀 GROW
 ```
 
 ---
